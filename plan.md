@@ -1,2 +1,4 @@
 ## Project Plan
-Tänne tulee projektisuunnitelma
+1. Konfigurointi
+   - Single repo project
+   - 
