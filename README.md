@@ -3,7 +3,7 @@ Waterbus timetable management tool.
 
 10 credits project associated to Helsinki University fullstack programming course.
 
-[Project description](description)
+[Project description](description.md)
 
 [Project Plan](plan.md)
 
