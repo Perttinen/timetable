@@ -5,4 +5,4 @@ Projektin tarkoituksena on luoda web sovellus, joka mahdollistaa liikennöitsij�
 
 Aikataulunäytössä tulee olla mahdollisimman pitkä lista laiturin seuraavista lähdöistä. Jokaisesta lähdöstä tulee ilmetä lähtöaika, määränpää, mahdolliset pysähdykset (laiturit) sekä liikennöitsijä. Otsikkona aikataululle toimii laiturin nimi.
 
-Sovelluksessa on oltava työkalu aikataulujen käyttäjäystävälliseen syöttämiseen. Aikataulut perustuvat reitteihin. Reittiin kuuluu lähtöpaikka ja välipysähdykset. Aikataulutus perustuu reittien lähtöaikoihin.
+Sovelluksessa on oltava työkalu aikataulujen käyttäjäystävälliseen syöttämiseen. Aikataulut perustuvat reitteihin. Reittiin kuuluvat lähtöpaikka ja välipysähdykset. Aikataulutuksen tulee perustua reittien lähtöaikoihin, siten että välipysähdysten aikataulut luodaan automattisesti, kun reitille annetaan lähtöaika. Reittien luomisesta vastaa jokin erillinen instanssi. Lähtöjen syöttäminen on liikennöitsijän vastuulla.
